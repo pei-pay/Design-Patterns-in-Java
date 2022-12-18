@@ -1,0 +1,4 @@
+mario@test.com=Mario
+luigi@test.com=Luigi
+peach@test.com=Peach
+toad@test.com=Toad
